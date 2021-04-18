@@ -1,6 +1,6 @@
 ﻿// Dynamic.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
-
+//очень важные изменения
 
 //#pragma comment(lib,"C:\\Users\\Артем\\source\\repos\\DllNik\\Debug\\DllNik.lib")
 #include <iostream>
